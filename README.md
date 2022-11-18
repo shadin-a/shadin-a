@@ -1,5 +1,11 @@
-### Hi there 👋
-
+### Welcome to my Github!
+I am a Software Developer based out of Seattle, WA, with a background in Linguistics and Latin. Send me your favorite LotR memes or collabrate with me on a project!
+# 🔭 I’m currently working on ...
+A full stack blogging platform that utilises Boostrap, Node.js, and MySQL.
+# 🌱 I’m currently learning ...
+React functionaility.
+# 📫 How to reach me: ...
+Carriar pigeon, or e-mail if available.
 <!--
 **shadin-a/shadin-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
